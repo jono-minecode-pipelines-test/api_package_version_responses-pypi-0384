@@ -1,0 +1,136 @@
+{
+    "info": {
+        "author": "F. Eugene Aumson",
+        "author_email": "feuGeneA@users.noreply.github.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "Development Status :: 2 - Pre-Alpha",
+            "Intended Audience :: Developers",
+            "Intended Audience :: Financial and Insurance Industry",
+            "License :: OSI Approved :: Apache Software License",
+            "Natural Language :: English",
+            "Operating System :: OS Independent",
+            "Programming Language :: Python",
+            "Programming Language :: Python :: 3 :: Only",
+            "Programming Language :: Python :: 3.6",
+            "Programming Language :: Python :: 3.7",
+            "Topic :: Internet :: WWW/HTTP",
+            "Topic :: Office/Business :: Financial",
+            "Topic :: Other/Nonlisted Topic",
+            "Topic :: Security :: Cryptography",
+            "Topic :: Software Development :: Libraries",
+            "Topic :: Utilities"
+        ],
+        "description": "## 0x-json-schemas\n\n0x JSON schemas for those developing on top of 0x protocol.\n\nRead the [documentation](http://0x-json-schemas-py.s3-website-us-east-1.amazonaws.com/)\n\n## Installing\n\n```bash\npip install 0x-json-schemas\n```\n\n## Contributing\n\nWe welcome improvements and fixes from the wider community! To report bugs within this package, please create an issue in this repository.\n\nPlease read our [contribution guidelines](../../CONTRIBUTING.md) before getting started.\n\n### Install Code and Dependencies\n\n```bash\npip install -e .[dev]\n```\n\n### Test\n\n`./setup.py test`.\n\n### Clean\n\n`./setup.py clean --all`\n\n### Lint\n\n`./setup.py lint`\n\n### Build Documentation\n\n`./setup.py build_sphinx`\n\n### More\n\nSee `./setup.py --help-commands` for more info.\n\n\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/0xProject/0x-monorepo/tree/development/python-packages/json_schemas",
+        "keywords": "ethereum cryptocurrency 0x decentralized blockchain dex exchange",
+        "license": "Apache 2.0",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "0x-json-schemas",
+        "package_url": "https://pypi.org/project/0x-json-schemas/",
+        "platform": "",
+        "project_url": "https://pypi.org/project/0x-json-schemas/",
+        "project_urls": {
+            "Homepage": "https://github.com/0xProject/0x-monorepo/tree/development/python-packages/json_schemas"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/0x-json-schemas/2.1.0.dev2/",
+        "requires_dist": [
+            "jsonschema",
+            "mypy-extensions",
+            "stringcase",
+            "0x-contract-addresses (==3.0.0.dev3) ; extra == 'dev'",
+            "bandit ; extra == 'dev'",
+            "black ; extra == 'dev'",
+            "coverage ; extra == 'dev'",
+            "coveralls ; extra == 'dev'",
+            "eth-utils ; extra == 'dev'",
+            "mypy ; extra == 'dev'",
+            "mypy-extensions ; extra == 'dev'",
+            "pycodestyle ; extra == 'dev'",
+            "pydocstyle ; extra == 'dev'",
+            "pylint ; extra == 'dev'",
+            "pytest ; extra == 'dev'",
+            "sphinx ; extra == 'dev'",
+            "sphinx-autodoc-typehints ; extra == 'dev'",
+            "tox ; extra == 'dev'",
+            "twine ; extra == 'dev'"
+        ],
+        "requires_python": ">=3.6, <4",
+        "summary": "JSON schemas for 0x applications",
+        "version": "2.1.0.dev2",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 6238029,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "PirosB3"
+            },
+            {
+                "role": "Owner",
+                "user": "feuGeneA"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "6db9655c483b2ab055de32e106dc3d9fbfb79bd245d47bb1eb84ef63231377e9",
+                "md5": "3a7473efc42d1adb6c7910ec902ad2f4",
+                "sha256": "fd55447c60aa70561b12cdce4b22264b83cb673f528e8b2cf9093e6d24cd1f56"
+            },
+            "downloads": -1,
+            "filename": "0x_json_schemas-2.1.0.dev2-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "3a7473efc42d1adb6c7910ec902ad2f4",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=3.6, <4",
+            "size": 21883,
+            "upload_time": "2019-11-20T22:34:51",
+            "upload_time_iso_8601": "2019-11-20T22:34:51.286110Z",
+            "url": "https://files.pythonhosted.org/packages/6d/b9/655c483b2ab055de32e106dc3d9fbfb79bd245d47bb1eb84ef63231377e9/0x_json_schemas-2.1.0.dev2-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "fc676b385e338fc48b2a39d019cf903a5cfcfcf3f03358a895c6a194f2dc64d2",
+                "md5": "cb280177f249c3dacc3819d1637d2cf7",
+                "sha256": "6799471021c3485aaa2814a0ee7e574a14444ca0111756eb128ab092e6868d78"
+            },
+            "downloads": -1,
+            "filename": "0x-json-schemas-2.1.0.dev2.tar.gz",
+            "has_sig": false,
+            "md5_digest": "cb280177f249c3dacc3819d1637d2cf7",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=3.6, <4",
+            "size": 9198,
+            "upload_time": "2019-11-20T22:34:52",
+            "upload_time_iso_8601": "2019-11-20T22:34:52.824254Z",
+            "url": "https://files.pythonhosted.org/packages/fc/67/6b385e338fc48b2a39d019cf903a5cfcfcf3f03358a895c6a194f2dc64d2/0x-json-schemas-2.1.0.dev2.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
