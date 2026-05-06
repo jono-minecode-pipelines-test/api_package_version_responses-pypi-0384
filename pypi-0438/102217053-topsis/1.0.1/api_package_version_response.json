@@ -1,0 +1,118 @@
+{
+    "info": {
+        "author": "Mitul Agarwal",
+        "author_email": "mitulagarwal2003@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "Development Status :: 3 - Alpha",
+            "Intended Audience :: Developers",
+            "License :: OSI Approved :: MIT License",
+            "Programming Language :: Python :: 3",
+            "Programming Language :: Python :: 3.4",
+            "Programming Language :: Python :: 3.5",
+            "Programming Language :: Python :: 3.6",
+            "Topic :: Software Development :: Build Tools"
+        ],
+        "description": "",
+        "description_content_type": null,
+        "docs_url": null,
+        "download_url": "https://github.com/user/reponame/archive/v_01.tar.gz",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": [
+            "Author",
+            "Author-Email",
+            "Classifier",
+            "Download-Url",
+            "Home-Page",
+            "Keywords",
+            "License",
+            "Requires-Dist",
+            "Summary"
+        ],
+        "home_page": "https://github.com/user/reponame",
+        "keywords": "topsis",
+        "license": "MIT",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "name": "102217053-topsis",
+        "package_url": "https://pypi.org/project/102217053-topsis/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102217053-topsis/",
+        "project_urls": {
+            "Download": "https://github.com/user/reponame/archive/v_01.tar.gz",
+            "Homepage": "https://github.com/user/reponame"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102217053-topsis/1.0.1/",
+        "requires_dist": [
+            "pandas",
+            "numpy"
+        ],
+        "requires_python": null,
+        "summary": "This is a topsis package",
+        "version": "1.0.1",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 27028774,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "mitulagarwal7"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "1338321fefa76becd73d438caae87f812aae601d6dbc69c3ae3aef23f65ab6ff",
+                "md5": "ee77e2a133d732ba63daeba8e2c0eb42",
+                "sha256": "38893f53f73a8a4888f022ce5d3eb3cf8a9c00c6401a2279da7ab10f1d090d7b"
+            },
+            "downloads": -1,
+            "filename": "102217053_topsis-1.0.1-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "ee77e2a133d732ba63daeba8e2c0eb42",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": null,
+            "size": 3611,
+            "upload_time": "2025-01-19T19:52:34",
+            "upload_time_iso_8601": "2025-01-19T19:52:34.370754Z",
+            "url": "https://files.pythonhosted.org/packages/13/38/321fefa76becd73d438caae87f812aae601d6dbc69c3ae3aef23f65ab6ff/102217053_topsis-1.0.1-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "d00d0b2ffba5741ff10e8263315ef6c300637e5951e092faed31097b02cbeb89",
+                "md5": "a8332b0a46275c01e4abbee1623bb6e8",
+                "sha256": "5bab22b34faf32f38f0d3dca05219416f33cceb4b8d536de0ee9e42499c54246"
+            },
+            "downloads": -1,
+            "filename": "102217053_topsis-1.0.1.tar.gz",
+            "has_sig": false,
+            "md5_digest": "a8332b0a46275c01e4abbee1623bb6e8",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": null,
+            "size": 3881,
+            "upload_time": "2025-01-19T19:52:36",
+            "upload_time_iso_8601": "2025-01-19T19:52:36.397401Z",
+            "url": "https://files.pythonhosted.org/packages/d0/0d/0b2ffba5741ff10e8263315ef6c300637e5951e092faed31097b02cbeb89/102217053_topsis-1.0.1.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
