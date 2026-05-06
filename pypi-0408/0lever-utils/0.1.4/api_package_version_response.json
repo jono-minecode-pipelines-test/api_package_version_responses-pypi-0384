@@ -1,0 +1,74 @@
+{
+    "info": {
+        "author": "fqiyou",
+        "author_email": "yc.fqiyou@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [],
+        "description": "",
+        "description_content_type": "",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/0lever/utils",
+        "keywords": "",
+        "license": "",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "0lever-utils",
+        "package_url": "https://pypi.org/project/0lever-utils/",
+        "platform": "",
+        "project_url": "https://pypi.org/project/0lever-utils/",
+        "project_urls": {
+            "Homepage": "https://github.com/0lever/utils"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/0lever-utils/0.1.4/",
+        "requires_dist": null,
+        "requires_python": "",
+        "summary": "utils",
+        "version": "0.1.4",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 5335997,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "yc.fqiyou"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "fea63189d263fed5988920a18c090e9f182cc32a8ded0e8df3ac86956cf41ed2",
+                "md5": "3862671563bdae5f808da49c1002c8d1",
+                "sha256": "8174bb227226c068ebf6fd5e845ae4193502a6488cf2ac01a9482d579161e9c8"
+            },
+            "downloads": -1,
+            "filename": "0lever_utils-0.1.4-py2-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "3862671563bdae5f808da49c1002c8d1",
+            "packagetype": "bdist_wheel",
+            "python_version": "2.7",
+            "requires_python": null,
+            "size": 14416,
+            "upload_time": "2019-05-28T09:22:20",
+            "upload_time_iso_8601": "2019-05-28T09:22:20.423103Z",
+            "url": "https://files.pythonhosted.org/packages/fe/a6/3189d263fed5988920a18c090e9f182cc32a8ded0e8df3ac86956cf41ed2/0lever_utils-0.1.4-py2-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
